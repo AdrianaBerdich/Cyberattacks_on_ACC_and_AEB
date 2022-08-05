@@ -8,7 +8,7 @@ Additionally, we added the Simulink models for the plausibility checks which we 
 
 All models from this repository (.slx file) were saved using Matlab 2021a.
 
-More details will be added on this repository page after our will be published. 
+More details will be added on this repository page after our work will be published. 
 
 # 4. Contact
 For any questions about our work and models, don't hesitate to contact us (adriana.berdich at aut.upt.ro or bogdan.groza at aut.upt.ro).
